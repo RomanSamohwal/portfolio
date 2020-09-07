@@ -1,0 +1,22 @@
+.button{
+    height: 46px;
+    background-color: #ffb400;
+    border-radius: 26px;
+    font-weight: 500;
+    line-height: 46px;
+    text-transform: uppercase;
+    outline: none !important;
+    overflow: hidden;
+    letter-spacing: 2px;
+    border: 0;
+    color: white;
+
+    /*
+
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+   !* font-family: 'Poppins', sans-serif;*!
+    letter-spacing: 5px;
+    border: 0;*/
+}

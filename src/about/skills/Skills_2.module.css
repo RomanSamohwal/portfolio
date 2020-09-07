@@ -1,0 +1,21 @@
+.rectangle{
+   height: 50px;
+   width: 400px;
+}
+
+.skill{
+   height: 10px;
+   width: 100%;
+}
+
+.percent{
+   height: 100%;
+}
+
+
+.title{
+   height: 40px;
+   width: 100%;
+   color: white;
+   font-size: 18px;
+}
