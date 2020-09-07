@@ -1,12 +1,24 @@
 .flex_column {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.flex_wrap{
+    flex-wrap: wrap;
 }
 
 .flex_row {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
+
+/*@media screen and (max-width: 570px){
+    .flex_row{
+        flex-direction: column;
+    }
+}*/
 
 .flex_start_center {
     justify-content: flex-start;

@@ -2,40 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8f7d88-b514-46b8-9b5e-a3202389e254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/about/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/About.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/info/Info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/info/Info.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/info/list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/skills/Skill_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/skills/Skills.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/skills/Skills_2.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/about/skills/Slkill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Container.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/ContainerInner.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/FlexBox.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Skills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Skills.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/button/Button.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/title/Title.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/title/TitleInner.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/title/title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/title/titleInner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contacts/Contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contacts/Contacts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/About.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/About.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/info/Info.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/info/Info.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/skills/Skills_2.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/skills/Skills_2.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Container.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Container.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/ContainerInner.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ContainerInner.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/FlexBox.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/FlexBox.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/title/Title.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/title/Title.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/title/TitleInner.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/title/TitleInner.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/title/title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/title/title.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +92,9 @@
       <workItem from="1599328951481" duration="7551000" />
       <workItem from="1599364733016" duration="3222000" />
       <workItem from="1599419794057" duration="4709000" />
-      <workItem from="1599468773506" duration="11762000" />
+      <workItem from="1599468773506" duration="12512000" />
+      <workItem from="1599493204178" duration="1192000" />
+      <workItem from="1599496276790" duration="9271000" />
     </task>
     <task id="LOCAL-00001" summary="create header">
       <created>1598994584262</created>
@@ -124,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598994584262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first comment">
+      <created>1599483465057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599483465058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,37 +118,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create header" />
-    <option name="LAST_COMMIT_MESSAGE" value="create header" />
+    <MESSAGE value="first comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="first comment" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1598994582975">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1599483463587">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598994582975" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599483463587" />
     <state x="511" y="234" key="Github.ShareDialog" timestamp="1599483440130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="511" y="234" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1599483440130" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1599481582948">
+    <state width="629" height="163" key="GridCell.Tab.0.bottom" timestamp="1599495586294">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599072102318" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599481582948" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1599481582948">
+    <state width="629" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599495586294" />
+    <state width="629" height="163" key="GridCell.Tab.0.center" timestamp="1599495586294">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599072102318" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599481582948" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1599481582947">
+    <state width="629" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599495586294" />
+    <state width="629" height="163" key="GridCell.Tab.0.left" timestamp="1599495586294">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599072102318" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599481582947" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1599481582948">
+    <state width="629" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599495586294" />
+    <state width="629" height="163" key="GridCell.Tab.0.right" timestamp="1599495586294">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599072102318" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599481582948" />
+    <state width="629" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599495586294" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599511214042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599511214042" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1599070552203">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

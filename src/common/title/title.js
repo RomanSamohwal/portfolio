@@ -6,6 +6,6 @@ export const Title = (props) => {
         <h1>
             {props.titleH} <span>{props.titleS}</span>
         </h1>
-       {/* <span className={style.titleBg}>{props.title}</span>*/}
+        {/*<span className={style.titleBg}>{props.title}</span>*/}
     </div>
 }
