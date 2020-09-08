@@ -7,10 +7,9 @@
     text-transform: uppercase;
     outline: none !important;
     overflow: hidden;
-    letter-spacing: 2px;
+    /*letter-spacing: 2px;*/
     border: 0;
     color: white;
-
     /*
 
     overflow: hidden;

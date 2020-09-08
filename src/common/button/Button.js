@@ -1,10 +1,10 @@
 import React from 'react';
 import style from './Button.module.css'
 
-export const Button = () => {
+export const Button = (props) => {
     return <>
         <button className={style.button}>
-            <span>Send message</span>
+            <span>{props.text}</span>
         </button>
     </>
 }

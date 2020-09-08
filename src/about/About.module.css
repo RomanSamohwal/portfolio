@@ -1,7 +1,7 @@
-.about{
+.about {
    /*border: 1px solid white;*/
-   height: 100vh;
-   background-color:#111;
+   min-height: 100vh;
+   background-color: #111;
 }
 
 .skills{
@@ -9,9 +9,10 @@
    flex-direction: row;
    justify-content: space-between;
    align-items: center;
+   padding-bottom: 20px;
 }
 
-@media screen and (max-width: 1020px){
+/*@media screen and (max-width: 1020px){
    .about{
       height: 125vh;
    }
@@ -21,7 +22,7 @@
    .about{
       height: 155vh;
    }
-}
+}*/
 
 @media screen and (max-width: 1020px) {
    .skills {

@@ -16,7 +16,8 @@
 
 .text{
    width: 450px;
-   background-color: white;
+   color: white;
+   border: 1px solid white;
 }
 
 .photo{
