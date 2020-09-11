@@ -1,5 +1,7 @@
 .title_inner{
-    font-size: 15px;
+    padding-bottom: 22px;
+    font-size: 18px;
+    /* font-size: 15px;*/
    /* border: 1px solid #b0eed2;*/
     color: white;
     text-align: center;
@@ -14,11 +16,10 @@
 .title_inner::before{
     content: '';
     position: absolute;
-    /*background-color: #ffb400;*/
     width: 200px;
     height: 1px;
     left: 50%;
     transform: translate(-50%, 50%);
-    bottom: -50%;
+    bottom: 30%;
     background-color: rgb(47, 47, 47);
 }
