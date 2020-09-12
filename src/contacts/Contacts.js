@@ -7,6 +7,7 @@ import {ContactInfo} from './components/ConatctInfo';
 import {LogoContainer} from './components/logotip';
 import MailOutlineIcon from '@material-ui/icons/MailOutline';
 import CallIcon from '@material-ui/icons/Call';
+import {Button} from '../common/button/Button';
 
 export const Contacts = () => {
     return <div className={style.contacts}>
@@ -32,9 +33,17 @@ export const Contacts = () => {
                     </ContactInfo>
                     <LogoContainer/>
                 </div>
-                <div className={`${style.message_container}`}>
 
+
+                <div className={`${style.contact_container}`}>
+                    <form className={style.contact_form}>
+                        <input type='text' placeholder={'YOUR NAME'}/>
+                        <input type='text' placeholder={'YOUR EMAIL'}/>
+                        <textarea  placeholder={'YOUR MESSAGE'}/>
+                        <Button text = {'SEND MESSAGE'}/>
+                    </form>
                 </div>
+
             </div>
         </div>
     </div>
