@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './TitleInner.module.css'
+import style from './TitleInner.module.scss'
 
 export const TitleInner = (props) => {
     return <div >

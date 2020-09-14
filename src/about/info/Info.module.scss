@@ -5,6 +5,14 @@
     display: flex;
     justify-content: center;
     padding-left: 0;
+
+    @media screen and (max-width: 570px){
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+    }
+
 }
 
 .list{
@@ -17,12 +25,3 @@
     justify-content: center;
 }
 
-
-@media screen and (max-width: 570px){
-   .info{
-       display: flex;
-       flex-direction: column;
-       justify-content: center;
-       align-items: center;
-   }
-}

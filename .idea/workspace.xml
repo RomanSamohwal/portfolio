@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8f7d88-b514-46b8-9b5e-a3202389e254" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/contacts/Contacts.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contacts/components/CommonInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contacts/components/MessageForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/About.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/About.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/info/Info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/info/Info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/info/Info.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/info/Info.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/info/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/info/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/skills/Skill_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/skills/Skill_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/skills/Skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/skills/Skills_2.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/skills/Skills_2.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/skills/Slkill.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/skills/Slkill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Skills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Skills.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/button/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/button/Button.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/title/Title.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/title/Title.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/title/title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/title/title.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts/components/ConatctInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/components/ConatctInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts/components/ContactInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/components/ContactInfo.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navbar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/navbar/Navbar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio/Portfolio.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio/project/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/project/Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio/project/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/project/Project.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/contacts/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/portfolio/project" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,11 +73,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\finish project\portfolio\src\portfolio\project" />
       <recent name="D:\finish project\portfolio\src\contacts\components" />
       <recent name="D:\finish project\portfolio\src\assets\image" />
       <recent name="D:\finish project\portfolio\src\common" />
       <recent name="D:\finish project\portfolio\src\about\skills" />
-      <recent name="D:\finish project\portfolio\src\about\info" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -94,6 +123,9 @@
       <workItem from="1599687519728" duration="11022000" />
       <workItem from="1599746423116" duration="17529000" />
       <workItem from="1599850965731" duration="4617000" />
+      <workItem from="1599913331198" duration="6846000" />
+      <workItem from="1599939307758" duration="6127000" />
+      <workItem from="1600039821063" duration="3636000" />
     </task>
     <task id="LOCAL-00001" summary="create header">
       <created>1598994584262</created>
@@ -130,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599851741090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add contacts input, textarea">
+      <created>1599913415324</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599913415324</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,41 +181,42 @@
     <MESSAGE value="finish About" />
     <MESSAGE value="refactoring about. add element before" />
     <MESSAGE value="add contacts information" />
-    <option name="LAST_COMMIT_MESSAGE" value="add contacts information" />
+    <MESSAGE value="add contacts input, textarea" />
+    <option name="LAST_COMMIT_MESSAGE" value="add contacts input, textarea" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1599913361973">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1599913412734">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599913361973" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599913412734" />
     <state x="511" y="234" key="Github.ShareDialog" timestamp="1599483440130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="511" y="234" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1599483440130" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1599855828966">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1600042351235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599771327617" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599855828966" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1599855828966">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600042351235" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1600042351235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599771327617" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599855828966" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1599855828966">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600042351235" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1600042351235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599771327616" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599855828966" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1599855828966">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600042351235" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1600042351235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="629" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1599771327617" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599855828966" />
-    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599851745135">
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600042351235" />
+    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2" timestamp="1600047374058">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599851745135" />
+    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600047374058" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1599766351393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

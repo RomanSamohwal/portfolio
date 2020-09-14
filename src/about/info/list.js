@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './Info.module.css'
+import style from './Info.module.scss'
 
 export const List = (props) => {
     return <div className={style.list}>

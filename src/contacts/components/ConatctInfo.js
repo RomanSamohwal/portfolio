@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './ContactInfo.module.css'
+import style from './ContactInfo.module.scss'
 import flex from './../../common/FlexBox.module.css'
 import {ContactLogo} from './ContactLogo';
 

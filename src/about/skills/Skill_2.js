@@ -1,5 +1,5 @@
 import React from 'react'
-import style from './Skills_2.module.css'
+import style from './Skills_2.module.scss'
 import flex from './../../common/FlexBox.module.css'
 
 export const SkillRectangle = (props) => {

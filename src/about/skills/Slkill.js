@@ -1,15 +1,16 @@
 import React from 'react'
-import style from './Skills.module.css'
+import style from './Skills.module.scss'
+import flex from './../../common/FlexBox.module.css'
 
 export const Skill = () => {
-    return <div className={`${style.skillContainer} ${style.flex}`}>
-        <div className={ `${style.skill} ${style.flex}`}>
-              <div className={`${style.inner} ${style.flex}`}>
-                 <span>95%</span>
-              </div>
+    return <div className={`${style.skill_box} ${flex.flex_column} ${flex.flex_center}`}>
+        <div className={`${style.skill} ${flex.flex_column} ${flex.flex_center}`}>
+            <div className={`${style.inner} ${flex.flex_column} ${flex.flex_center}`}>
+                <span>95%</span>
+            </div>
         </div>
-        <div className={ `${style.title} ${style.flex}`}>
-               <span>JAVASCRIPT</span>
+        <div className={`${style.title} ${flex.flex_column} ${flex.flex_center}`}>
+            <span>JAVASCRIPT</span>
         </div>
     </div>
 };

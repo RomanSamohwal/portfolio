@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './Portfolio.module.css'
+import style from './Portfolio.module.scss'
 import styleCommon from './../common/Container.module.css'
 import {Title} from '../common/title/title';
 import styleInner from '../common/ContainerInner.module.css';

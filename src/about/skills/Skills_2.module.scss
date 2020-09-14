@@ -1,0 +1,28 @@
+.rectangle{
+   height: 50px;
+   width: 400px;
+   .percent{
+      height: 100%;
+      .title{
+         height: 40px;
+         width: 100%;
+         color: white;
+         font-size: 18px;
+         @media screen and (max-width: 333px){
+            font-size: 12px;
+         }
+      }
+      .skill{
+         height: 10px;
+         width: 100%;
+      }
+   }
+   @media screen and (max-width: 525px){
+         width: 250px;
+   }
+   @media screen and (max-width: 333px){
+         width: 180px;
+         font-size: 50px;
+   }
+}
+

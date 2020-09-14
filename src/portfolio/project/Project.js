@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './Project.module.css'
+import style from './Project.module.scss'
 import flex from './../../common/FlexBox.module.css'
 
 export const Project = (props) => {
@@ -14,13 +14,5 @@ export const Project = (props) => {
                 <h3>{props.title}</h3>
             </div>
         </div>
-        {/*  <div className={ `${style.description_container} ${flex.flex_column} `}>
-
-            <div className={`${style.description_container_text} ${flex.flex_start_center}`}>
-               <span style={{padding: '5px'}}>
-                  {props.text}
-               </span>
-            </div>
-        </div>*/}
     </div>
 }

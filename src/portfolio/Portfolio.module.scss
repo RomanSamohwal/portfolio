@@ -1,0 +1,9 @@
+.portfolio {
+  /* border: 1px solid brown;*/
+  background-color: #111;
+  min-height: 100vh;
+  @media screen and (max-width: 1150px) {
+    flex-direction: column;
+  }
+}
+

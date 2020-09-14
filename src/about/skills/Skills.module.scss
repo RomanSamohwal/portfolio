@@ -1,0 +1,33 @@
+.skill_box {
+   border: 1px solid blue;
+   height: 200px;
+   width: 300px;
+   background-color: #111;
+
+   .skill {
+      /* border: 1px solid #b0eed2;*/
+      height: 150px;
+      width: 150px;
+      border-radius: 50%;
+      background-color: #ffb400;
+
+      .inner {
+         height: 120px;
+         width: 120px;
+         border-radius: 50%;
+         /*  border: 1px solid #b0eed2;*/
+         background-color: black;
+         color: white;
+         font-size: 30px;
+      }
+   }
+
+   .title {
+      height: 50px;
+      width: 100%;
+      border: 1px solid #eec63f;
+      color: white;
+      font-size: 18px;
+   }
+}
+
