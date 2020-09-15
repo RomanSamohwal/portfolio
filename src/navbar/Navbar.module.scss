@@ -1,12 +1,13 @@
+@import '../common/sass/variables';
+
 .nav{
-   border: 1px solid black;
    height: 30px;
    text-decoration: none;
    width: 450px;
    display: flex;
    justify-content: space-between;
    align-items: center;
-   color: white;
+   color: $baseTextColor;
    padding: 5px;
 }
 
@@ -14,5 +15,5 @@
    width: 70px;
    height: 25px;
    border-radius: 10%;
-   background-color: #2b2a2a;
+   background-color: $secondAddColor;
 }

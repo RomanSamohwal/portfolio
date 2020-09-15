@@ -1,3 +1,5 @@
+@import '../../common/sass/variables';
+
 .titleSection {
     margin: 0 auto;
     width: 100%;
@@ -7,13 +9,14 @@
 
     h1 {
         /* border: 1px solid white;*/
-        color: white;
+        color: $baseTextColor;
         font-weight: 700;
         letter-spacing: 3px;
+        font-family: $fontTitle;
     }
 
     span {
-        color: #eec63f;
+        color: $additionalColor;
         /*border: 1px solid white;*/
         font-weight: 700;
         letter-spacing: 3px;

@@ -1,23 +1,25 @@
+@import '../../common/sass/variables';
+
 .skill_box {
    border: 1px solid blue;
    height: 200px;
    width: 300px;
-   background-color: #111;
+   background-color: $primaryColor;
 
    .skill {
       /* border: 1px solid #b0eed2;*/
       height: 150px;
       width: 150px;
       border-radius: 50%;
-      background-color: #ffb400;
+      background-color: $additionalColor;
 
       .inner {
          height: 120px;
          width: 120px;
          border-radius: 50%;
          /*  border: 1px solid #b0eed2;*/
-         background-color: black;
-         color: white;
+         background-color: $primaryColor;
+         color: $baseTextColor;
          font-size: 30px;
       }
    }
@@ -25,8 +27,8 @@
    .title {
       height: 50px;
       width: 100%;
-      border: 1px solid #eec63f;
-      color: white;
+      border: 1px solid $additionalColor;
+      color: $baseTextColor;
       font-size: 18px;
    }
 }

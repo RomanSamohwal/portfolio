@@ -1,7 +1,12 @@
+@import '../common/sass/variables';
+
 .portfolio {
   /* border: 1px solid brown;*/
-  background-color: #111;
+  background-color: $primaryColor;
   min-height: 100vh;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
   @media screen and (max-width: 1150px) {
     flex-direction: column;
   }

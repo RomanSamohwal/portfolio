@@ -13,9 +13,7 @@ export const ContactInfo = (props) => {
                  </span>
             </div>
             <div>
-           <span>
                {props.info}
-            </span>
             </div>
         </div>
     </div>

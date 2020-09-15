@@ -1,6 +1,8 @@
+@import '../../common/sass/variables';
+
 .button{
     height: 46px;
-    background-color: #ffb400;
+    background-color: $buttonColor;
     border-radius: 26px;
     font-weight: 500;
   /*  line-height: 46px;*/
@@ -9,7 +11,7 @@
     overflow: hidden;
     letter-spacing: 1px;
     border: 0;
-    color: white;
+    color: $buttonTextColor;
     text-align: center;
     padding: 0 30px 0;
     /*

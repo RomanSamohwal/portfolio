@@ -1,0 +1,15 @@
+$baseTextColor: white;
+$secondTextColor: #c1c8cd;
+$additionalColor: #eec63f;
+$primaryColor: #111;
+$secondAddColor: #252525;
+$headerColor: black;
+$logoColor: white;
+$buttonColor: #eec63f;
+$buttonTextColor: white;
+$photoBorderColor: #eec63f;
+
+$fontTitle: 'Josefin Sans', sans-serif;
+$secondTitle: 'Tajawal', sans-serif;
+$fontText: 'Poppins', sans-serif;;
+

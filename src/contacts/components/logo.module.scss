@@ -1,9 +1,11 @@
+@import '../../common/sass/variables';
+
 .logo {
   /* border: 1px solid red;*/
    width: 40px;
    height: 40px;
    margin-right: 10px;
-   background-color: white;
+   background-color: $logoColor;
    border-radius: 50%;
 }
 

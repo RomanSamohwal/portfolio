@@ -1,7 +1,10 @@
+@import '../common/sass/variables';
+
 .contacts{
    /*border: 1px solid white;*/
-   background-color: #111;
+   background-color: $primaryColor;
    min-height: 90vh;
+   margin: 0 auto;
 }
 
 .contacts_container {
@@ -24,10 +27,11 @@
    h3 {
       font-size: 26px;
       font-weight: 600;
-      color: white;
+      color: $baseTextColor;
    }
    p {
-      color: white;
+      font-family: $fontText;
+      color: $baseTextColor;
       font-size: 15px;
    }
    @media screen and (max-width: 860px){
@@ -49,11 +53,12 @@
    display: flex;
    flex-direction: column;
    align-items: center;
+
    textarea {
       font-size: 15px;
-      border: 1px solid #111;
-      background: #252525;
-      color: #fff;
+      border: 1px solid $primaryColor;
+      background: $secondAddColor;
+      color: $baseTextColor;
       width: 100%;
       padding-top: 10px;
       text-align: center;
@@ -73,10 +78,10 @@
          width: 44%;
          input {
             font-size: 15px;
-            border: 1px solid #111;
+            border: 1px solid $primaryColor;
             width: 98%;
-            background: #252525;
-            color: #fff;
+            background: $secondAddColor;
+            color: $baseTextColor;
             height: 45px;
             text-align: center;
             border-radius: 30px;

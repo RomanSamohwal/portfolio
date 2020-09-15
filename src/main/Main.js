@@ -2,24 +2,30 @@ import React from 'react';
 import style from './Main.module.scss'
 import styleCommon from './../common/Container.module.css'
 import {Button} from '../common/button/Button';
+import flex from './../common/FlexBox.module.css'
+import image from './../assets/image/photo_2020-05-20_00-50-23.jpg'
 
 export const Main = () => {
+    const avatar = {
+      /*  backgroundImage: `url(${image})`,*/
+    };
     return <div className={style.main}>
-        <div className={styleCommon.common}>
+        <div className={`${styleCommon.common} ${flex.flex_column} ${flex.flex_center}`}>
             <div className={style.container}>
-                <div className={style.photo}>
+                <div className={`${style.photo}`} style={avatar}>
 
                 </div>
                 <div className={style.text}>
                     <span>HI THERE</span>
-                    <h1>I'M ROMAN <span style={{color: '#eec63f'}}>SAMOHWAL</span></h1>
-                    <p>
+                    <div>I'M ROMAN <span>SAMOHWAL</span></div>
+                    <span>
                         I'm front‑end developer
-                    </p>
-                 <Button text = {'MORE ABOUT ME'}/>
+                    </span>
+                    <div style={{marginTop: '5px'}}>
+                        <Button text={'MORE ABOUT ME'}/>
+                    </div>
                 </div>
             </div>
-
         </div>
     </div>
 }

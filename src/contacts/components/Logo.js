@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './logo.module.css'
+import style from './logo.module.scss'
 import flex from './../../common/FlexBox.module.css'
 
 export const Logo = (props) => {
