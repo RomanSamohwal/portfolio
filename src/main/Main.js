@@ -7,7 +7,7 @@ import image from './../assets/image/photo_2020-05-20_00-50-23.jpg'
 
 export const Main = () => {
     const avatar = {
-      /*  backgroundImage: `url(${image})`,*/
+        /*  backgroundImage: `url(${image})`,*/
     };
     return <div className={style.main}>
         <div className={`${styleCommon.common} ${flex.flex_column} ${flex.flex_center}`}>

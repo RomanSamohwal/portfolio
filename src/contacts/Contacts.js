@@ -6,7 +6,6 @@ import {Title} from '../common/title/title';
 import {CommonInfo} from './components/CommonInfo';
 import {MessageInfo} from './components/MessageForm';
 
-
 export const Contacts = () => {
     return <div className={style.contacts}>
         <div className={styleCommon.common}>

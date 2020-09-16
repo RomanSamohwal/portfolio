@@ -39,14 +39,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
    /* border: 1px solid green;*/
-
     span {
       font-family: $fontTitle;
-      font-weight: 100;
       font-stretch: normal;
-      /*font-size: 15px;*/
       line-height: 1.8;
     }
 
@@ -55,21 +51,18 @@
       font-weight: 700;
       font-stretch: normal;
       line-height: 1.2;
-     /* letter-spacing: 10px;*/
     }
 
     div:nth-child(2) span {
       color: $additionalColor;
-    /*  border: 1px solid green;*/
     }
 
     & span:nth-child(3) {
       font-size: 23px;
-   /*   border: 1px solid blue;*/
     }
 
     @media screen and(max-width: 900px) {
-     /* text-align: center;*/
+      text-align: center;
     }
   }
 }

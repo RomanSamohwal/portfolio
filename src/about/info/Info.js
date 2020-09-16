@@ -4,8 +4,8 @@ import {List} from './list';
 
 export const Info = () => {
     let data1 = [{'First name': 'Roman'}, {'Last name': 'Samohwal'}, {'Age': 28}, {'Nationality': 'Belarus'}];
-    let data2 = [{'Address': 'Minsk'}, {'Phone': '+21621184010'},
-        {'Email ': 'you@mail.com'}, {'Langages': ['English, ', 'Russian']}];
+    let data2 = [{'Address': 'Minsk'}, {'Phone': '+375(25)7501956'},
+        {'Email ': 'rsamohwal@gmail.com'}, {'Langages': ['English, ', 'Russian']}];
 
     return <div className={style.info}>
         <List data={data1}/>

@@ -12,7 +12,6 @@
    flex-direction: row;
    justify-content: space-between;
    align-items: center;
-   padding-bottom: 10px;
    @media screen and (max-width: 860px) {
       display: flex;
       flex-direction: column;
@@ -25,6 +24,7 @@
    width: 40%;
    /*border: 1px solid white;*/
    h3 {
+      font-family: $fontText;
       font-size: 26px;
       font-weight: 600;
       color: $baseTextColor;
@@ -55,6 +55,7 @@
    align-items: center;
 
    textarea {
+      font-family: $fontText;
       font-size: 15px;
       border: 1px solid $primaryColor;
       background: $secondAddColor;
@@ -87,6 +88,7 @@
             border-radius: 30px;
             outline: none !important;
             transition: .3s;
+            font-family: $fontText;
          }
       }
    }

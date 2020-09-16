@@ -23,7 +23,7 @@ export const Portfolio = () => {
             <Title title={'Works'} titleH={'MY'} titleS={'PORTFOLIO'}/>
             <div className={`${styleInner.container} ${flex.flex_column} ${flex.flex_center}`}>
                 <Project title={'SOCIAL NETWORK'} text={"I'ts my social network"} image={socialNetwork}/>
-                <Project title={'TodoList'} text={'You can to make own task '} image={todolist}/>
+                <Project title={'TO DO LIST'} text={'You can to make own task '} image={todolist}/>
             </div>
         </div>
     </div>
