@@ -7,9 +7,18 @@
    margin-right: 10px;
    background-color: $logoColor;
    border-radius: 50%;
+   .link{
+      width:  100%;
+      height: 100%;
+      display: block;
+      text-decoration: none;
+   }
+   &:hover{
+      background-color: $additionalColor;
+   }
 }
 
-.container{
+.container {
    width: 100%;
    height: 100%;
 }

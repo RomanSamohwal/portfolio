@@ -8,7 +8,7 @@ export const MessageInfo = () => {
         <form className={style.contact_form}>
             <div className={`${style.input_form} ${flex.flex_row} ${flex.flex_space_between_center}`}>
                 <div className={style.input}>
-                    <input type='text' placeholder={'your name'}/>
+                    <input type='text' placeholder={'your name'} />
                 </div>
                 <div className={style.input}>
                     <input type='text' placeholder={'your email'}/>

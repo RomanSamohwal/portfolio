@@ -1,14 +1,25 @@
 @import '../common/sass/variables';
 
-.nav{
+.nav {
    height: 30px;
    text-decoration: none;
    width: 450px;
    display: flex;
    justify-content: space-between;
    align-items: center;
-   color: $baseTextColor;
    padding: 5px;
+   font-family: 'Poppins', sans-serif;
+   font-size: 20px;
+
+   a {
+      text-decoration: none;
+      color: $baseTextColor;
+   }
+
+   a.active {
+      color: $additionalColor;
+   }
+
 }
 
 .link{
@@ -17,3 +28,4 @@
    border-radius: 10%;
    background-color: $secondAddColor;
 }
+

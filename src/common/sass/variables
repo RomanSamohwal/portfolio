@@ -3,7 +3,7 @@ $secondTextColor: #c1c8cd;
 $additionalColor: #eec63f;
 $primaryColor: #111;
 $secondAddColor: #252525;
-$headerColor: black;
+$headerColor: #111;
 $logoColor: white;
 $buttonColor: #eec63f;
 $buttonTextColor: white;
