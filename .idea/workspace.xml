@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8f7d88-b514-46b8-9b5e-a3202389e254" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/common/button/ButtonMain.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/button/Button.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/button/Button.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sass/variables" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/sass/variables" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about/About.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/about/About.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/Contacts.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/components/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/components/Logo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/contacts/components/MessageForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/components/MessageForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/components/logo.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/components/logo.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/components/logotip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/components/logotip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contacts/components/logotip.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts/components/logotip.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navbar/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/navbar/Navbar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/navbar/Navbar.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/portfolio/project/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/project/Project.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/portfolio/project/Project.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/project/Project.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -51,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/common/button" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\finish project\portfolio\src\common\button" />
       <recent name="D:\finish project\portfolio\src\assets\image" />
       <recent name="D:\finish project\portfolio\src\portfolio\project" />
       <recent name="D:\finish project\portfolio\src\contacts\components" />
       <recent name="D:\finish project\portfolio\src\common" />
-      <recent name="D:\finish project\portfolio\src\about\skills" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -125,7 +114,13 @@
       <workItem from="1600373819910" duration="621000" />
       <workItem from="1600374460282" duration="1652000" />
       <workItem from="1600376794156" duration="176000" />
-      <workItem from="1600376989782" duration="6552000" />
+      <workItem from="1600376989782" duration="7586000" />
+      <workItem from="1600386649361" duration="3124000" />
+      <workItem from="1600401464422" duration="1355000" />
+      <workItem from="1600431572361" duration="1323000" />
+      <workItem from="1600463829141" duration="1210000" />
+      <workItem from="1600543600258" duration="1241000" />
+      <workItem from="1600582158763" duration="7986000" />
     </task>
     <task id="LOCAL-00001" summary="create header">
       <created>1598994584262</created>
@@ -190,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600291301944</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add more interesting">
+      <created>1600384573418</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600384573418</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +208,8 @@
     <MESSAGE value="add sass" />
     <MESSAGE value="refactor main" />
     <MESSAGE value="refactoring my portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring my portfolio" />
+    <MESSAGE value="add more interesting" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more interesting" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600097790239">
@@ -217,40 +220,40 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="404" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1600054694842" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1600291300711">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1600384571936">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600291300711" />
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600199257209" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600384571936" />
     <state x="511" y="234" key="Github.ShareDialog" timestamp="1599483440130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="511" y="234" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1599483440130" />
-    <state width="1244" height="163" key="GridCell.Tab.0.bottom" timestamp="1600382601279">
+    <state width="1244" height="163" key="GridCell.Tab.0.bottom" timestamp="1600589604169">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600349537097" />
-    <state width="1244" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600382601279" />
-    <state width="1244" height="163" key="GridCell.Tab.0.center" timestamp="1600382601278">
+    <state width="1244" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600544842661" />
+    <state width="1244" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600589604169" />
+    <state width="1244" height="163" key="GridCell.Tab.0.center" timestamp="1600589604169">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600349537097" />
-    <state width="1244" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600382601278" />
-    <state width="1244" height="163" key="GridCell.Tab.0.left" timestamp="1600382601278">
+    <state width="1244" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600544842660" />
+    <state width="1244" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600589604169" />
+    <state width="1244" height="163" key="GridCell.Tab.0.left" timestamp="1600589604169">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600349537097" />
-    <state width="1244" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600382601278" />
-    <state width="1244" height="163" key="GridCell.Tab.0.right" timestamp="1600382601279">
+    <state width="1244" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600544842660" />
+    <state width="1244" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600589604169" />
+    <state width="1244" height="163" key="GridCell.Tab.0.right" timestamp="1600589604169">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600349537097" />
-    <state width="1244" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600382601279" />
-    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2" timestamp="1600292001533">
+    <state width="1244" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600544842660" />
+    <state width="1244" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600589604169" />
+    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2" timestamp="1600384579682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1600292001533" />
-    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600199261967" />
+    <state x="233" y="74" width="814" height="531" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600384579682" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1600198928319">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

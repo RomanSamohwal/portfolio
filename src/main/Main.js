@@ -7,6 +7,7 @@ import image from './../assets/image/photo_2020-05-20_00-50-23.jpg'
 import Slide from 'react-reveal/Slide'
 import Tilt from 'react-tilt'
 import {Project} from '../portfolio/project/Project';
+import {ButtonMain} from '../common/button/ButtonMain';
 
 export const Main = () => {
     const avatar = {
@@ -28,7 +29,7 @@ export const Main = () => {
                         I'm front‑end developer
                     </span>
                         <div style={{marginTop: '5px'}}>
-                            <Button text={'MORE ABOUT ME'}/>
+                            <ButtonMain text={'MORE ABOUT ME'}/>
                         </div>
                     </div>
                 </div>
