@@ -1,7 +1,6 @@
 @import '../common/sass/variables';
 
 .main {
-  /*border: 1px solid wheat;*/
   min-height: 90vh;
   background-color: $primaryColor;
   display: flex;
@@ -17,7 +16,6 @@
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
- /* border: 1px solid wheat;*/
 
   .photo {
     border-radius: 50%;
@@ -39,7 +37,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   /* border: 1px solid green;*/
     span {
       font-family: $fontTitle;
       font-stretch: normal;

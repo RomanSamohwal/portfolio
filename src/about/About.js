@@ -28,14 +28,14 @@ export const About = () => {
                         </div>
                         <div className={`${style.skills}`}>
                             <div className={`${flex.flex_column}`}>
-                                <SkillRectangle title={'HTML'} percent={'60'}/>
-                                <SkillRectangle title={'REACT'} percent={'80'}/>
+                                <SkillRectangle title={'HTML'} percent={'90'}/>
+                                <SkillRectangle title={'REACT'} percent={'85'}/>
                                 <SkillRectangle title={'JAVASCRIPT'} percent={'80'}/>
                             </div>
                             <div className={`${flex.flex_column}`}>
-                                <SkillRectangle title={'CSS'} percent={'55'}/>
-                                <SkillRectangle title={'REDUX'} percent={'70'}/>
-                                <SkillRectangle title={'TYPESCRIPT'} percent={'60'}/>
+                                <SkillRectangle title={'CSS'} percent={'70'}/>
+                                <SkillRectangle title={'REDUX'} percent={'87'}/>
+                                <SkillRectangle title={'TYPESCRIPT'} percent={'75'}/>
                             </div>
                         </div>
                     </div>

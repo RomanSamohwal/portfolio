@@ -1,12 +1,10 @@
 import React from 'react';
 import style from './Main.module.scss'
 import styleCommon from './../common/Container.module.css'
-import {Button} from '../common/button/Button';
 import flex from './../common/FlexBox.module.css'
 import image from './../assets/image/photo_2020-05-20_00-50-23.jpg'
 import Slide from 'react-reveal/Slide'
 import Tilt from 'react-tilt'
-import {Project} from '../portfolio/project/Project';
 import {ButtonMain} from '../common/button/ButtonMain';
 
 export const Main = () => {
@@ -17,11 +15,10 @@ export const Main = () => {
         <Slide top>
             <div className={`${styleCommon.common} ${flex.flex_column} ${flex.flex_center}`}>
                 <div className={style.container}>
-                    <Tilt className="Tilt">
+                    {/*<Tilt className="Tilt">*/}
                         <div className={`${style.photo}`} style={avatar}>
-
                         </div>
-                    </Tilt>
+                  {/*  </Tilt>*/}
                     <div className={style.text}>
                         <span>HI THERE</span>
                         <div>I'M ROMAN <span>SAMOHWAL</span></div>

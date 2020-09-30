@@ -27,7 +27,6 @@
     text-decoration: none;
     .project_container {
       width: 100%;
-      /*border: 1px solid black;*/
       height: 100%;
 
       .project_container_image {
@@ -39,6 +38,7 @@
         background-position: center;
         border-top-left-radius: 5%;
         border-top-right-radius: 5%;
+        opacity: 30%;
       }
 
       .project_container_separator {
@@ -56,16 +56,18 @@
         height: 17%;
         width: 100%;
         letter-spacing: 1px;
-        /*border: 1px solid red;*/
       }
     }
 
     &:hover .description_container__title {
       color: #eec63f;
+
     }
+    :hover .project_container_image {
+      opacity: 100%;
+    }
+
   }
-
-
 }
 
 

@@ -11,7 +11,6 @@ export const Project = (props) => {
                    className={style.link}>
                     <div className={`${style.project_container} ${flex.flex_column}`}>
                         <div className={style.project_container_image} style={props.image}>
-
                         </div>
                         <div className={style.project_container_separator}>
                         </div>
