@@ -15,7 +15,7 @@ export const Main = () => {
         <Slide top>
             <div className={`${styleCommon.common} ${flex.flex_column} ${flex.flex_center}`}>
                 <div className={style.container}>
-                    {/*<Tilt className="Tilt">*/}
+                  {/*  <Tilt className="Tilt">*/}
                         <div className={`${style.photo}`} style={avatar}>
                         </div>
                   {/*  </Tilt>*/}
