@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.85837a49.chunk.css",
-    "main.js": "/portfolio/static/js/main.a902463f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a902463f.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.1ecf71c7.chunk.css",
+    "main.js": "/portfolio/static/js/main.c17b007d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c17b007d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.b319f85a.chunk.js": "/portfolio/static/js/2.b319f85a.chunk.js",
-    "static/js/2.b319f85a.chunk.js.map": "/portfolio/static/js/2.b319f85a.chunk.js.map",
+    "static/js/2.0cc308b9.chunk.js": "/portfolio/static/js/2.0cc308b9.chunk.js",
+    "static/js/2.0cc308b9.chunk.js.map": "/portfolio/static/js/2.0cc308b9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.f998b667de39880bd7bbd8d3955beb83.js": "/portfolio/precache-manifest.f998b667de39880bd7bbd8d3955beb83.js",
+    "precache-manifest.7072fdd95f87fbd93eb4c5d574ea758e.js": "/portfolio/precache-manifest.7072fdd95f87fbd93eb4c5d574ea758e.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.85837a49.chunk.css.map": "/portfolio/static/css/main.85837a49.chunk.css.map",
-    "static/js/2.b319f85a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b319f85a.chunk.js.LICENSE.txt",
+    "static/css/main.1ecf71c7.chunk.css.map": "/portfolio/static/css/main.1ecf71c7.chunk.css.map",
+    "static/js/2.0cc308b9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0cc308b9.chunk.js.LICENSE.txt",
+    "static/media/android-11-chat-bubbles-how-to-hero-1.jpg": "/portfolio/static/media/android-11-chat-bubbles-how-to-hero-1.196b4cc2.jpg",
     "static/media/photo_2020-05-20_00-50-23.jpg": "/portfolio/static/media/photo_2020-05-20_00-50-23.4b2162ae.jpg",
     "static/media/sn3.jpg": "/portfolio/static/media/sn3.f0b38d4b.jpg",
     "static/media/todolist3.jpg": "/portfolio/static/media/todolist3.ad11a56b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.b319f85a.chunk.js",
-    "static/css/main.85837a49.chunk.css",
-    "static/js/main.a902463f.chunk.js"
+    "static/js/2.0cc308b9.chunk.js",
+    "static/css/main.1ecf71c7.chunk.css",
+    "static/js/main.c17b007d.chunk.js"
   ]
 }
