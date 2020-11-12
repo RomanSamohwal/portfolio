@@ -20,7 +20,7 @@ export const CommonInfo = () => {
         <ContactInfo text={'MAIL ME'} info={'rsamohwal@gmail.com'}>
             <MailOutlineIcon fontSize='large' style={{backgroundColor: '#eec63f'}}/>
         </ContactInfo>
-        <ContactInfo text={'CALL ME'} info={'+216 21 184 010'}>
+        <ContactInfo text={'CALL ME'} info={'+375(25)7501956'}>
             <CallIcon fontSize='large' style={{backgroundColor: '#eec63f'}}/>
         </ContactInfo>
         <LogoContainer/>
