@@ -1,7 +1,6 @@
 @import '../common/sass/variables';
 
 .contacts {
-  /*border: 1px solid white;*/
   background-color: $primaryColor;
   min-height: 90vh;
   margin: 0 auto;
@@ -22,7 +21,6 @@
 
 .information_container {
   width: 40%;
-  /*border: 1px solid white;*/
   h3 {
     font-family: $fontText;
     font-size: 26px;
@@ -78,7 +76,6 @@
 
   .input_form {
     width: 100%;
-    /* border: 1px solid cornflowerblue;*/
     margin-bottom: 10px;
 
     .input {

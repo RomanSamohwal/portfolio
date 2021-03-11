@@ -4,11 +4,9 @@
     margin: 0 auto;
     width: 100%;
     position: relative;
-    /*border: 1px solid white;*/
     text-align: center;
 
     h1 {
-        /* border: 1px solid white;*/
         color: $baseTextColor;
         font-weight: 700;
         letter-spacing: 3px;
@@ -17,7 +15,6 @@
 
     span {
         color: $additionalColor;
-        /*border: 1px solid white;*/
         font-weight: 700;
         letter-spacing: 3px;
     }
